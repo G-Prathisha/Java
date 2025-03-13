@@ -4,9 +4,9 @@ public class examplestudent {
         int mark=100;
         char grade='O';
         String dept="CSE";
-        System.out.println(name);
-        System.out.println(mark);
-        System.out.println(grade);
-        System.out.println(dept);
+        System.out.println("Enter your name:"+name);
+        System.out.println("Enter your mark:"+mark);
+        System.out.println("Enter your grade:"+grade);
+        System.out.println("Enter your dept:"+dept);
     }
 }
